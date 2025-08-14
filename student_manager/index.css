@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    
+}
+button{
+    background-color: aqua;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.b{
+    margin-right: 30px;
+}
+.c{
+    border: none;
+}
